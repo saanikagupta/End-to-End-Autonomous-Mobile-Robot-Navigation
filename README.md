@@ -1,6 +1,6 @@
 ## End-to-End-Autonomous-Mobile-Robot-Navigation
 - Developed a 1D CNN model for end-to-end autonomous mobile robot navigation.
-- Keras functional API was used for building this non-sequential model
+- Keras functional API was used for building this non-sequential model.
 - Achieved an accuracy of 88.3%.
 - The model predicted steering commands (left, right, front) from laser sensor data (received from LiDAR) and goal information.
 - The dataset was manually generated using Gazebo simulator.
